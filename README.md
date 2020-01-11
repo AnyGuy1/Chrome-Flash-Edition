@@ -5,3 +5,5 @@ Our goal is to create a version of chrome that can:
 1. Run Adobe Flash after December 31, 2020. (Check!)
 2. Sign into Google.
 3. Not update (that breaks everything).
+
+To download, go to the "Releases" page on the Beta branch.
