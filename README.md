@@ -6,4 +6,4 @@ Our goal is to create a version of chrome that can:
 2. Sign into Google.
 3. Not update (that breaks everything).
 
-To download, go to the "releases" page on the Beta branch.
+To download, go to the "Releases" page on the Beta branch.
