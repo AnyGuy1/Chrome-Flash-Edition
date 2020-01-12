@@ -1,0 +1,5 @@
+[0108/201905.103:WARNING:chrome_test_launcher.cc(101)] Failed to add Windows firewall rules -- Windows firewall dialogs may appear.
+[0108/201905.105:ERROR:process_inspector_win.cc(187)] Failed to read process memory: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0108/201905.105:ERROR:always_on_top_window_killer_win.cc(210)] There is an always on top window on the desktop. This may have been caused by a previous test and may cause this test to fail; window class name: HwndWrapper[Overwolf.exe;UI;941ef378-9d99-41d1-ba98-f3d47b528bab]; owning process lineage: (process_id: 19104, command_line: ""C:\Program Files (x86)\Overwolf\OverwolfLauncher.exe" -overwolfsilent -silent");
+[0108/201905.106:ERROR:always_on_top_window_killer_win.cc(217)] Stripped WS_EX_TOPMOST.
+[0108/201905.112:ERROR:always_on_top_window_killer_win.cc(222)] Minimized window.
