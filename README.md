@@ -7,3 +7,7 @@ Our goal is to create a version of chrome that can:
 3. Not update (that breaks everything).
 
 To download, go to the "Releases" page on the Beta branch.
+
+
+Want to support me? Click the "Sponsor" Button or the button right beside this message.
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T61CDBK)
