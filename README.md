@@ -6,7 +6,7 @@ Our goal is to create a version of chrome that can:
 2. Sign into Google. (Currently in beta, but still, check!)
 3. Not update. (Check!)
 
-To download, go to the "Releases" page on the Beta branch, or go here: http://bit.ly/3bn0eLx
+To download, go to the "Releases" page, or go here: http://bit.ly/3bn0eLx
 
 
 Want to support me? Click the "Sponsor" Button or the button right beside this message.
