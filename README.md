@@ -10,4 +10,4 @@ To download, go to the "Releases" page, or go here: http://bit.ly/3bn0eLx
 
 
 Want to support me? Click the "Sponsor" Button or the button right beside this message.
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T61CDBK)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](http://kofi.chromeflash.xyz)
