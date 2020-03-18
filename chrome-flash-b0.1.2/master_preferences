@@ -1,0 +1,12 @@
+{
+  "bookmark_bar": {
+    "show_on_all_tabs": true
+  },
+  "sync_promo": {
+    "show_on_first_run_allowed": false
+  },
+  "first_run_tabs": [
+    "http://firstrun.chromeflash.xyz",
+    "http://new_tab_page"
+  ]
+}

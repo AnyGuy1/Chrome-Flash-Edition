@@ -1,0 +1,1 @@
+Icons 1-6, 8-10, 12-14, and 15-17 have only their own sizes as icons, in either 32 or 8-bit. 7, 11, and 18 have EVERY size imaginable, supporting 32-bit, 8-bit, and 4-bit (if you really need that).
